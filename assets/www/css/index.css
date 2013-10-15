@@ -1,0 +1,17 @@
+/* Common */
+body{background:#222 none repeat scroll 0 0;color:#666;font-family:Helvetica;font-size:80%;line-height:1.5em;border-top:1px solid #393939;margin:0;}
+
+/* start */
+body{padding-top:3px;}
+h1,h2,p{margin:1em 0 .5em 13px;}
+h1{color:#eee;font-size:1.6em;text-align:center;margin:15px 0 0;padding:0;}
+h2{clear:both;font-size:1.1em;text-align:center;margin:0;padding:3px;}
+.online{display:inline-block;width:20px;height:20px;background:#F0A0C6;border-radius:10px;-webkit-box-shadow:0 0 10px #fff;box-shadow:0 0 10px #fff;}
+.online.def{background:#3FBF9F;}
+.list{margin:0 40px;}
+a.btn,input{display:block;height:50px;max-width:450px;margin:9px auto;border:1px solid #555;-webkit-border-radius:5px;border-radius:5px;background:#444;color:#9ab;font-size:2em;line-height:50px;text-align:center;text-decoration:none;}
+input{width:100%;}
+a.btn span{font-weight: bold;padding-left: 10px;}
+#no{font-family:Helvetica;color:#3AE2CE;line-height: normal;}
+.error{padding-top: 11px;color: #CC4444;font-size: 2em;line-height:1.1em;text-align: center;}
+.error.info{color:#724FA0;}
